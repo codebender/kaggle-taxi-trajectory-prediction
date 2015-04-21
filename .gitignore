@@ -11,3 +11,7 @@
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
+
+# kaggle & submission data
+Data/*.csv
+Output/*.csv
